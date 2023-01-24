@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NomesFuncionarios
 {
@@ -26,24 +22,12 @@ namespace NomesFuncionarios
             int contadorMostrarNomes = 0;
             while (contadorMostrarNomes < nomes.Length)
             {
-                
-                
-                
-                    Console.WriteLine(nomes[contadorMostrarNomes]);                
-             
-                
+                Console.WriteLine(nomes[contadorMostrarNomes]);                
+                            
                 contadorMostrarNomes++;
             }
 
             Console.ReadKey();
-
-
-
-
-
-
-
-
 
         }
     }
