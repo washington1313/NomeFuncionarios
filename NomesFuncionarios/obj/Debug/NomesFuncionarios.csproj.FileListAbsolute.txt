@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\NomesFuncionarios\NomesFuncionarios\bin\Debug\NomesFuncionarios.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\NomesFuncionarios\NomesFuncionarios\bin\Debug\NomesFuncionarios.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\NomesFuncionarios\NomesFuncionarios\bin\Debug\NomesFuncionarios.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\NomesFuncionarios\NomesFuncionarios\obj\Debug\NomesFuncionarios.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\NomesFuncionarios\NomesFuncionarios\obj\Debug\NomesFuncionarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\NomesFuncionarios\NomesFuncionarios\obj\Debug\NomesFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\NomesFuncionarios\NomesFuncionarios\obj\Debug\NomesFuncionarios.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\NomesFuncionarios\NomesFuncionarios\obj\Debug\NomesFuncionarios.pdb
